@@ -1,2 +1,3 @@
-# task-1-web-task-FE
- Task-1 WebDev FrontEnd
+# Task 1 : WebDev Task (FrontEnd)
+Task Description - To create an interactive showcase of one's personal interests
+
